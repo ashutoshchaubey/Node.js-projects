@@ -4,7 +4,7 @@ Created a server using node-js core module - http using port 3000. Also made an 
 
 # Requirements 
 1. Install Node.js on local machine - https://nodejs.org/en/
-2. After installation, run $ node <fileName>
+2. After installation, run $ node --fileName
 3. In this case the file name is app.js.
 4. Switch to browser and open http://localhost:3000/
 5. Fill the form, open developer tools and go to network.
