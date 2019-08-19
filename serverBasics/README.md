@@ -4,7 +4,7 @@ Created a server using node-js core module - http using port 3000. Also made an 
 
 # Requirements 
 1. Install Node.js on local machine - https://nodejs.org/en/
-2. After installation, run $ node --fileName || OR ||  run npm init and add fill the required fields against keys after that you can customise the json file that is create and simply run the app.js using npm by adding "start" key and assigning it the value of : "node app.js"
+2. After installation, run $ node --fileName || OR ||  run npm init and fill the required fields against keys, after that you can customise the json file that is created and simply run the app.js using npm by adding "start" key and assigning it the value of : "node app.js"
 After this you can simply run npm start and it will start your development server on port 3000.
 3. In this case the file name is app.js.
 4. Switch to browser and open http://localhost:3000/
