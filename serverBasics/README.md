@@ -9,6 +9,7 @@ After this you can simply run npm start and it will start your development serve
 3. In this case the file name is app.js.
 4. Switch to browser and open http://localhost:3000/
 5. Fill the form, open developer tools and go to network.
+All the information filled out in the form will create a new text file with the form data.
 
 ### Basic Form
 ![image](https://user-images.githubusercontent.com/35742041/63143661-0acfa900-c00d-11e9-9582-68d4f37c69d6.png)
